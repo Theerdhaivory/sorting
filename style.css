@@ -1,0 +1,24 @@
+body{
+	background-image: url("https://wallpapers.com/images/hd/brown-aesthetic-notepad-grid-laptop-u1v6x9rg2yshrrdx.jpg");
+	background-repeat: no-repeat;
+    color: #E8A0BF;
+    font-size: 28px;
+    font-family: 'Elsie', cursive;
+   
+}
+
+.box1{
+    text-align: center;
+    padding: 40px 40px 5px 20px;
+}
+
+.box2{
+    text-align: center;
+    padding: 40px 40px 50px 113px;
+}
+input,textarea{
+
+    background-color: #E8A0BF;
+    color:white;
+    border-color: #E8A0BF;
+}
